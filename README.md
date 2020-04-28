@@ -18,7 +18,7 @@ $ pip2 install mechanize
 
 $ pip2 install yagmail
 
-$
+$ git clone https://github.com/cok18-a/Facebook
 
 $ cd Facebook
 
